@@ -38,6 +38,13 @@ A Python-based project for detecting and simulating bit-flip scenarios in binary
   </table>
 </div>
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="https://github.com/user-attachments/assets/af4e3d1a-ae9d-42a6-ba3b-25128f7a6c2d" alt="Image 1" /><br/>The reason why we need to make the CPU overheat or even overclock that can make it more probable to bit flip is because of this Maxwell Probability distribution, where the probability corresponds to its temperature conditions, this probability distribution also help us to build better Generative AI because of this fundamental understanding. NOTE: we may need more tools to simulate a bit flip, like using a particle accelerator, or radiation fault injection, or it is also probable to make the device near the uranium. </td>
+    </tr>
+  </table>
+</div>
 
 ## Getting Started
 
