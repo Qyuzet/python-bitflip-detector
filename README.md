@@ -32,8 +32,8 @@ A Python-based project for detecting and simulating bit-flip scenarios in binary
 <div align="center">
   <table>
     <tr>
-      <td>real-time detector, but hard to detect since my CPU runs in a stable environment, bit flip is a rare condition in a stable environment since it happens more likely due to cosmic rays or noise radiation from radioactivity on the ground, to make it more probable, we need to heat the CPU or even make it overclock, so the electrons particle runs faster and vulnerable to interference</td>
-      <td>Because it is hard to simulate, I built the right-side version to manipulate the bit randomly just to showcase how it looks, but it is not an actual condition, since we are using SHA-256, where the flip just makes the entire structure changes, so to analyze it deeply, we need other algorithms to detect each chunks of memory. Here 1 represents 1 flip, and 0 means no, or we can see that a bar represent 1, and nothing represents 0</td>
+      <td>The left side is a real-time detector, but it is hard to detect since my CPU runs in a stable environment, bit flip is a rare condition in a stable environment since it happens more likely due to cosmic rays or noise radiation from radioactivity on the ground, to make it more probable, we need to heat the CPU or even make it overclock, so the electrons particle runs faster and vulnerable to interference</td>
+      <td>Because it is hard to simulate, I built the right-side version to manipulate the bit randomly to showcase how it looks, but it is not an actual condition, since we are using SHA-256, where the flip just makes the entire structure changes, so to analyze it deeply, we need other algorithms to detect each chunks of memory. Here 1 represents 1 flip, and 0 means no, or we can see that a bar represents 1, and nothing represents 0</td>
     </tr>
   </table>
 </div>
